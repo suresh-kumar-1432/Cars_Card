@@ -1,0 +1,62 @@
+[
+  {
+    "image": "images/car1.jpg",
+    "title": "Ferrari F8",
+    "details": "A high-performance sports car with 710 HP."
+  },
+  {
+    "image": "images/car2.jpg",
+    "title": "Lamborghini Aventador",
+    "details": "Iconic V12 supercar with aggressive design."
+  },
+  {
+    "image": "images/car3.jpg",
+    "title": "Porsche 911",
+    "details": "Legendary rear-engine sports car, perfect for daily drives."
+  },
+  {
+    "image": "images/car4.png",
+    "title": "Bugatti Chiron",
+    "details": "Ultra-fast hypercar with 1500 HP and top speed of 261 mph."
+  },
+  {
+    "image": "images/car5.jpg",
+    "title": "McLaren 720S",
+    "details": "A stunning supercar with lightweight carbon fiber body."
+  },
+  {
+    "image": "images/car6.jpeg",
+    "title": "Aston Martin Vantage",
+    "details": "Luxury sports car combining style and performance."
+  },
+  {
+    "image": "images/car7.jpg",
+    "title": "Mercedes AMG GT",
+    "details": "High-performance GT car with elegant design."
+  },
+  {
+    "image": "images/car8.jpg",
+    "title": "BMW M4",
+    "details": "Sporty coupe with precise handling and turbo engine."
+  },
+  {
+    "image": "images/car9.jpg",
+    "title": "Audi R8",
+    "details": "Exotic car with V10 engine and quattro AWD system."
+  },
+  {
+    "image": "images/car10.jpeg",
+    "title": "Chevrolet Corvette",
+    "details": "Iconic American sports car with incredible value."
+  },
+  {
+    "image": "images/car11.jpg",
+    "title": "Ford Mustang",
+    "details": "Muscle car legend with aggressive styling."
+  },
+  {
+    "image": "images/car12.jpg",
+    "title": "Toyota Supra",
+    "details": "Japanese sports car with turbocharged performance."
+  }
+]
